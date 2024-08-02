@@ -1,0 +1,49 @@
+Gulab Jamun
+
+ingredients: "Milk powder, Ghee, Flour, Baking soda, Cardamom powder, Sugar, Water, Rose water, Saffron strands"
+instructions: Gulab Jamun involves making dough from milk powder, flour, 
+and baking soda. Shape the dough into small balls and fry them in ghee until 
+golden brown. Prepare a sugar syrup with water and sugar, and add cardamom powder and 
+rose water. Soak the fried balls in the warm syrup for several hours before serving.
+imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ321oD8PPlAakIa_zqLt_kFeToBplXfCsMug&s"
+prepTime: 60 minutes
+
+----------------
+Ice Cream
+ingredients: "Milk, Cream, Sugar, Vanilla extract, Egg yolks (optional), Salt"
+instructions: Heat milk and cream together with sugar until the sugar dissolves. If using, whisk egg yolks and temper them with the warm milk mixture. Cook the mixture until it thickens slightly. Remove from heat and add vanilla extract. Chill the mixture completely before churning it in an ice cream maker according to the manufacturer's instructions. Freeze until firm.
+imgurl: "https://img.freepik.com/free-photo/three-ice-creams-waffle-cone-dark-background_1142-40789.jpg"
+prepTime: 30 minutes (excluding freezing time)
+-----------------------
+
+Paneer Butter Masala
+ingredients: "Paneer, Butter, Onion, Tomato, Cream, Ginger-garlic paste, Green chilies, Garam masala, Red chili powder, Turmeric powder, Salt, Oil"
+instructions: Heat oil and butter in a pan. Sauté finely chopped onions until golden brown, then add ginger-garlic paste and green chilies.
+ Add chopped tomatoes and cook until soft. Blend the mixture into a smooth paste and return to the pan.
+  Add spices, including garam masala, red chili powder, turmeric, and salt. 
+  Stir in cream and cooked paneer cubes, simmer until the paneer is well-coated with the sauce.
+imgurl: "https://www.yummytummyaarthi.com/wp-content/uploads/2021/12/1.jpg"
+prepTime: 45 minutes
+
+---------------
+Sahi Paneer
+
+ingredients: "Paneer, Onion, Tomato, Cream, Cashew nuts, Ginger-garlic paste, Green chilies, Garam masala, Red chili powder, Turmeric powder, Salt, Oil, Coriander powder"
+instructions: Heat oil in a pan and sauté finely chopped onions until golden brown. Add ginger-garlic paste and green chilies. Cook until the raw smell disappears, then add chopped tomatoes and cook until soft. Blend this mixture with cashew nuts into a smooth paste. Return to the pan, add spices (garam masala, red chili powder, turmeric, coriander powder, and salt), and cook. Stir in cream and paneer cubes, simmer until well combined.
+imgurl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cnpnlXE_qEsCpG9IL_9yCAR74NJCzfJITA&s"
+prepTime: 45 minutes
+----------------
+
+Kachori
+ingredients: "Flour, Ghee or oil, Moong dal (split green gram), Cumin seeds, Coriander seeds, Red chili powder, Garam masala, Fennel seeds, Hing (asafoetida), Salt, Oil (for deep frying)"
+instructions: Prepare a dough by mixing flour with ghee or oil and a pinch of salt, then knead until smooth. For the filling, roast moong dal and grind it coarsely. Mix with cumin seeds, coriander seeds, red chili powder, garam masala, fennel seeds, and hing. Roll out the dough into small circles, place a spoonful of filling in the center, and fold the edges to seal. Deep fry the kachoris until golden brown and crispy.
+imgurl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kailashsweets.com%2Fproducts%2Fsnacks%2Fkachori&psig=AOvVaw3tuSECUiC2MkB3jumMTHTD&ust=1722712039311000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDe9cqA14cDFQAAAAAdAAAAABAE"
+prepTime: 60 minutes
+
+
+-------------------
+Kachori
+ingredients: "Flour, Ghee or oil, Moong dal (split green gram), Cumin seeds, Wheat"
+instructions: Prepare a dough by mixing flour with ghee  and a pinch of salt, then knead until smooth. For the filling, roast moong dal and grind it coarsely. Mix with cumin seeds, and fold the edges to seal. Deep fry the paratha until golden brown and crispy.
+imgurl: "https://t4.ftcdn.net/jpg/03/53/80/97/360_F_353809711_mHRKgIPiM3I5oYOInrkPa2qgBzuMZ6eB.jpg"
+prepTime: 10 minutes
